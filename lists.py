@@ -13,12 +13,12 @@ def median(numbers):
         sorted_numbers = sorted(numbers)
         if length % 2 == 0:
             mid = length/2
-            else:
+            # else:
         mid = length / 2
         
         numbers = [2,3,4,,6,8,10]
 print(median(numbers))
-    
+
 # Write a Python program that takes a list of numbers as input and outputs 
 # the second largest number in the list using conditional statements and a for loop.
 numbers = []
